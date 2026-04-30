@@ -1,5 +1,7 @@
 # Basic Calculator
 
+https://nallamaruadithyavardhan.github.io/Calculator/
+
 A fully functional, responsive calculator built with HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations with a modern, user-friendly interface.
 
 ##  Table of Contents
